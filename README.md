@@ -1,3 +1,6 @@
+# mt7610u_wifi_sta
+The linux driver for mt7610u_wifi_sta with dkms support.
+
 #changelog 2016-04-04
 1. theoretically supported products (common/rtusb_dev_id.c):
  * {USB_DEVICE(0x148F,0x7610)}, /* MT7610U Ralink VID */
@@ -54,6 +57,4 @@ http://hprath.com/2014/06/cisco-linksys-ae6000-ac580-media-tek-mt7610u-mt7630u-m
 On this page you'll find also details about configuration in RT2870STA.dat.
 
 https://github.com/chenhaiq/mt7610u_wifi_sta_v3002_dpo_20130916 (TP-Link T2U)
-
-
 
