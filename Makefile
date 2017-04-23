@@ -25,6 +25,7 @@ OSABL = NO
 ifneq ($(TARGET),THREADX)
 #RT28xx_DIR = home directory of RT28xx source code
 RT28xx_DIR = $(shell pwd)
+#RT28xx_DIR = /usr/src/mt7610u_sta-3.0.0
 endif
 
 include $(RT28xx_DIR)/os/linux/config.mk
