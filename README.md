@@ -1,5 +1,7 @@
 # mt7610u_wifi_sta
 The linux driver for mt7610u_wifi_sta with dkms support.
+The usb wifi dongle is the TP-Link product like this.
+[!doc/usb-wifi-TP-Link.jpg](TP Link usb wifi dongle)
 
 #changelog 2016-04-04
 1. theoretically supported products (common/rtusb_dev_id.c):
